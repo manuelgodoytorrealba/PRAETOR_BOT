@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "NK-AIR-MAX-95-OG-LEVIS-WHITE",
+    "marca": "Nike",
+    "modelo": "Air Max 95 OG x Levis",
+    "color": "Light Orewood Brown (Blanco)",
+    "talla": "7 - EUR 40",
+    "estado": "Nuevo",
+    "precio_compra": 205,
+    "precio_venta_estimado": 255,
+    "moneda": "EUR",
+    "fecha_compra": "2025-07-11",
+    "proveedor": "SNKRS",
+    "fotos": [
+      "fotos/nk_air_max_95_og_levis_white_1.jpg",
+      "fotos/nk_air_max_95_og_levis_white_2.jpg",
+      "fotos/nk_air_max_95_og_levis_white_3.jpg",
+      "fotos/nk_air_max_95_og_levis_white_4.jpg",
+      "fotos/nk_air_max_95_og_levis_white_5.jpg",
+      "fotos/nk_air_max_95_og_levis_white_6.jpg",
+      "fotos/nk_air_max_95_og_levis_white_7.jpg"
+    ],
+    "descripcion": "Nike Air Max 95 OG x Levis en color Light Orewood Brown. Talla 7 (EUR 40). Nuevas con caja. Edición limitada.",
+    "tags": [
+      "nike",
+      "airmax",
+      "levis",
+      "nuevo",
+      "limitado"
+    ],
+    "publicado_en": [],
+    "estado_inventario": "En Stock",
+    "fecha_creacion": "2025-07-19"
+  },
+  {
+    "sku": "NK-AIR-MAX-95-OG-LEVIS-BLACK",
+    "marca": "Nike",
+    "modelo": "Air Max 95 OG",
+    "color": "Negro",
+    "talla": "3.5",
+    "estado": "Nuevo",
+    "precio_compra": 205,
+    "precio_venta_estimado": 500,
+    "moneda": "EUR",
+    "fecha_compra": "2025-07-11",
+    "proveedor": "SVD",
+    "fotos": [
+      "fotos/nk_air_max_95_og_levis_black_1.jpg",
+      "fotos/nk_air_max_95_og_levis_black_2.jpg",
+      "fotos/nk_air_max_95_og_levis_black_3.jpg",
+      "fotos/nk_air_max_95_og_levis_black_4.jpg",
+      "fotos/nk_air_max_95_og_levis_black_5.jpg"
+    ],
+    "descripcion": "Nike Air Max 95 OG color Negro en talla EUR 40. Nuevas, edición original. En perfecto estado, con gran revalorización.",
+    "tags": [
+      "nike",
+      "airmax",
+      "og",
+      "negro",
+      "nuevo"
+    ],
+    "publicado_en": [],
+    "estado_inventario": "En Stock",
+    "fecha_creacion": "2025-07-19"
+  }
+]
